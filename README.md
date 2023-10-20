@@ -26,9 +26,9 @@
 
 Introducing <b>Code Frontier</b>: a cutting-edge, browser-based code editor that empowers users to unleash their creativity and coding prowess like never before. With this innovative platform, you can seamlessly write, edit, and run HTML, CSS, and JavaScript snippets, all while witnessing real-time output display right in your browser!
 
-![img1](https://github.com/Div-Chaudhary/Code-Frontier/assets/100666304/c38f8b94-8b8f-40bb-a042-3fe6c19154e9)
+![img1](https://github.com/jaikishanmohanty/Code-Frontier---React/assets/62710109/3b86441f-6345-4aaf-909d-e3a159c283bd)
 
-![img2](https://github.com/Div-Chaudhary/Code-Frontier/assets/100666304/842c34bc-0313-40e5-9bc8-4b4a8a2b79de)
+![img2](https://github.com/jaikishanmohanty/Code-Frontier---React/assets/62710109/7f83278f-f898-4a79-8c30-c87132c6085f)
 
 
 At the heart of this project lies a powerful and intuitive user interface, meticulously crafted with React. This ensures a smooth and delightful user experience, making it accessible to both beginners and seasoned developers alike. Say goodbye to clunky interfaces and hello to a seamless coding journey!
@@ -62,7 +62,7 @@ Thank you for choosing CodeFrontier, your go-to browser-based code editor for wr
 Step 1: Clone the Repository
 To begin, open your terminal (command prompt for Windows) and clone the CodeFrontier repository from GitHub. Run the following command:
 ```sh
-git clone https://github.com/Div-Chaudhary/Code-Frontier.git
+git clone https://github.com/jaikishanmohanty/Code-Frontier---React.git
 ```
 Step 2: Install Dependencies
 Navigate to the project's root directory using the following command:
@@ -110,11 +110,10 @@ Happy coding with CodeFrontier! 🚀
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Div-Chaudhary/Code-Frontier/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/jaikishanmohanty/Code-Frontier---React/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/Div-Chaudhary/Code-Frontier/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
-
+  
 ### Creating A Pull Request
 
 1. Fork the Project
@@ -123,12 +122,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Div-Chaudhary/Code-Frontier/blob/main/LICENSE.md) for more information.
-
 ## Authors
 
-* **Div Chaudhary** - *Software Engineering Student* - [Div Chaudhary](https://github.com/Div-Chaudhary)
+* **Jaikishan Mohanty** - *Software Engineering Student* - [Jaikishan Mohanty](https://github.com/jaikishanmohanty)
 
