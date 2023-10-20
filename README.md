@@ -19,7 +19,6 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [License](#license)
 * [Authors](#authors)
 
 ## About The Project
